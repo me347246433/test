@@ -1,8 +1,5 @@
 
-<head>
-<meta charset="UTF-8">
-    <title>背包客旅行札记</title>
-</head>
+
 
 <body>
 <header id="header">
